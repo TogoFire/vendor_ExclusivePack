@@ -35,8 +35,8 @@ LOCAL_PATH := vendor/ExclusivePack
 #    SwiftKey
 
 # SemcMusic
-PRODUCT_PACKAGES += \
-    SemcMusic
+#PRODUCT_PACKAGES += \
+#    SemcMusic
 
 # NewPipe
 #PRODUCT_PACKAGES += \
@@ -51,8 +51,8 @@ PRODUCT_PACKAGES += \
 #    FDroid
 
 # ColorNote
-PRODUCT_PACKAGES += \
-    ColorNote
+#PRODUCT_PACKAGES += \
+#    ColorNote
 
 # SwiftBackup
 #PRODUCT_PACKAGES += \
@@ -71,8 +71,8 @@ PRODUCT_PACKAGES += \
 #    HedgeCam2
 
 #OpenCamera
-PRODUCT_PACKAGES += \
-    OpenCamera
+#PRODUCT_PACKAGES += \
+#  OpenCamera
 
 # Gcamgo
 #PRODUCT_PACKAGES += \
@@ -107,13 +107,21 @@ PRODUCT_PACKAGES += \
 #    SimpleGallery
 
 # RevengeOSCalculator
-PRODUCT_PACKAGES += \
-    RevengeOSCalculator
+#PRODUCT_PACKAGES += \
+#    RevengeOSCalculator
 
 # NineEmail
-PRODUCT_PACKAGES += \
+# PRODUCT_PACKAGES += \
     NineEmail
 
 # Textra
 #PRODUCT_PACKAGES += \
 #		Textra
+
+# AppManager
+PRODUCT_PACKAGES += \
+		AppManager
+
+# SuperFreeze
+PRODUCT_PACKAGES += \
+		SuperFreeze
